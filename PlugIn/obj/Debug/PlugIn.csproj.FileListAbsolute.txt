@@ -1,0 +1,7 @@
+F:\paint\PlugIn\bin\Debug\PlugIn.dll
+F:\paint\PlugIn\bin\Debug\PlugIn.pdb
+F:\paint\PlugIn\bin\Debug\Paint.exe
+F:\paint\PlugIn\bin\Debug\Paint.pdb
+F:\paint\PlugIn\obj\Debug\PlugIn.csprojResolveAssemblyReference.cache
+F:\paint\PlugIn\obj\Debug\PlugIn.dll
+F:\paint\PlugIn\obj\Debug\PlugIn.pdb
